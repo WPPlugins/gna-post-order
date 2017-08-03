@@ -1,0 +1,97 @@
+# Copyright (C) 2016 GNA Post Order
+# This file is distributed under the same license as the GNA Post Order package.
+msgid ""
+msgstr ""
+"Project-Id-Version: GNA Post Order 0.9.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gna-post-order\n"
+"POT-Creation-Date: 2016-01-27 07:28:58+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  plugin.pot (GNA Post Order 0.9.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/gna-post-order-admin-init.php:51
+#: admin/gna-post-order-admin-settings-menu.php:83
+#: admin/gna-post-order-admin-sortpage-menu.php:116
+msgid "GNA Post Order"
+msgstr ""
+
+#: admin/gna-post-order-admin-init.php:53
+#: admin/gna-post-order-admin-settings-menu.php:49
+msgid "Settings"
+msgstr ""
+
+#: admin/gna-post-order-admin-init.php:83
+#: admin/gna-post-order-admin-init.php:85
+#: admin/gna-post-order-admin-init.php:87
+msgid "ReOrder"
+msgstr ""
+
+#: admin/gna-post-order-admin-menu.php:40
+msgid "Settings successfully updated."
+msgstr ""
+
+#: admin/gna-post-order-admin-menu.php:46
+msgid "The selected record(s) deleted successfully!"
+msgstr ""
+
+#: admin/gna-post-order-admin-settings-menu.php:19
+msgid "General Settings"
+msgstr ""
+
+#: admin/gna-post-order-admin-settings-menu.php:73
+msgid "The UA ID seems wrong. Please check it again."
+msgstr ""
+
+#: admin/gna-post-order-admin-settings-menu.php:85
+#: admin/gna-post-order-admin-sortpage-menu.php:118
+msgid "Thank you for using our GNA Post Order plugin."
+msgstr ""
+
+#: admin/gna-post-order-admin-settings-menu.php:90
+#: admin/gna-post-order-admin-settings-menu.php:96
+msgid "Web Property ID"
+msgstr ""
+
+#: admin/gna-post-order-admin-settings-menu.php:102
+#: admin/gna-post-order-admin-sortpage-menu.php:134
+msgid "Save Settings"
+msgstr ""
+
+#: admin/gna-post-order-admin-sortpage-menu.php:86
+msgid "Sorting"
+msgstr ""
+
+#: admin/gna-post-order-admin-sortpage-menu.php:125
+msgid "Content List"
+msgstr ""
+
+#: admin/gna-post-order-admin-sortpage-menu.php:172
+msgid "Pages"
+msgstr ""
+
+#: gna-post-order-core.php:65
+msgid "Developer's Profile"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/gna-google-analytics/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Post order and custom post type objects (posts, any custom post types) using "
+"a drag and drop sortable javascript ajax user interface."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Chris Dev"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://webgna.com/"
+msgstr ""
